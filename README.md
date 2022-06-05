@@ -35,8 +35,8 @@
         5          8
       /
     1 
-       \
-          3
+     \
+      3
 
 - 6 7'den küçük fakat 5'ten büyüktür. 7'nin soluna 5'in sağına yerleşir
                   
