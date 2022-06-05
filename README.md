@@ -7,6 +7,7 @@
               7  
 
 - 5 7'den küçüktür bu yüzden 7'nin soluna yerleştiririz
+              
               7
           /  
         5
